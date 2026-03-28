@@ -1,6 +1,5 @@
 # Driftgentic
-
-Catch drift at the boundary before it breaks production.
+> Validate your agent before it breaks production.
 
 Driftgentic validates AI agent tool calls against JSON Schema contracts at runtime, detects API drift, and tracks agent reliability before failures reach downstream systems.
 
