@@ -98,6 +98,8 @@ ai-plugin.json
 
 Docs
 
+Examples: https://driftgentic.com/docs
+
 Site: https://driftgentic.com
 
 API Docs: https://driftgentic.com/docs
